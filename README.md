@@ -1,9 +1,12 @@
 # Freelance-MERN
 ### "Why Choose Us? Empowering Freelancers to Land the Jobs They Deserve with IKAC Works"
 Unlock a world of opportunity with IKAC Works, where your talent meets the perfect projects. Here, you’ll connect with clients who value expertise, tackle inspiring challenges, and build a legacy that reflects your skills and passion. From expanding your portfolio to accessing global projects, IKAC Works empowers you to work freely and create your path to success. Dive into a marketplace where innovation meets opportunity, and let your freelancing journey truly begin.
-
+## Main Page
 ![IKAC Works](./assests/main.png)
-
+## Login Page
+![Login](./assests/login.png)
+## Register Page
+![Register](./assests/register.png)
 ## Prerequisites
 - Node.js (v14 or later)
 - MongoDB (local or Atlas)
