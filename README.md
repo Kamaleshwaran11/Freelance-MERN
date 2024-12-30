@@ -8,7 +8,7 @@ Unlock a world of opportunity with IKAC Works, where your talent meets the perfe
 ## Register Page
 ![Register](./assests/register.png)
 ## Demo video
-![Demovideo](./assests/Freelance Mern -NM - Made with Clipchamp.mp4).
+![Demovideo](./assests/Freelance%20Mern%20-NM%20-%20Made%20with%20Clipchamp.mp4)
 ## Prerequisites
 - Node.js (v14 or later)
 - MongoDB (local or Atlas)
